@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <link rel = "stylesheet" type = "text/css" href= "memo.css" />
+    <title>Street fighter memory !</title>
+  </head>
+  <body>
+
+
+      <div id = "quiFixe1"><div id = "container1"><div id = "timer1"></div></div></div>
+    <div id = "boxcards">
+    <img id = "start" class = "start1" onclick = "attribAlea()" src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/latest(5)" />
+    <img id = "NashID" onclick = "retourner('NashID', 'Nash2ID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_10.png')" class = "Nash"  src= "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_10.png" />
+    <img id = "KarinID"  class = "Karin" onclick = "retourner('KarinID', 'Karin2ID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_07.png')" src= "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_07.png" />
+    <img id = "LauraID" class = "Laura" onclick = "retourner('LauraID', 'Laura2ID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_08.png')"  src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_08.png" />
+    <img id = "NecalliID" class = "Necalli" onclick = "retourner('NecalliID','Necalli2ID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_09.png')" src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_09.png" />
+    <img id = "RmikaID" class = "Rmika" onclick = "retourner('RmikaID', 'Rmika2ID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_11.png')" src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_11.png" />
+    <img id = "RashidID" class = "Rashid" onclick = "retourner('RashidID', 'Rashid2ID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_12.png')" src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_12.png" />
+    <img id = "RyuKenID" class = "RyuKen" onclick = "retourner('RyuKenID', 'RyuKen2ID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_13.png')" src= "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_13.png" />
+    <img id = "RyuKen2ID"  class = "RyuKen2" onclick = "retourner('RyuKen2ID', 'RyuKenID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_13.png')" ,src= "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_13.png" />
+    <img id = "Rashid2ID" class = "Rashid2" onclick = "retourner('Rashid2ID', 'RashidID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_12.png')"  src= "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_12.png" />
+    <img id = "Rmika2ID"   class = "Rmika2" onclick = "retourner('Rmika2ID', 'RmikaID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_11.png')" src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_11.png" />
+    <img id = "Necalli2ID" class = "Necalli2" onclick = "retourner('Necalli2ID', 'NecalliID', 'Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_09.png')" src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_09.png" />
+    <img id = "Laura2ID"   class = "Laura2" onclick = "retourner('Laura2ID', 'LauraID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_08.png')" src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_08.png" />
+    <img id = "Karin2ID"   class = "Karin2" onclick = "retourner('Karin2ID', 'KarinID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_07.png')" src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_07.png" />
+    <img id = "Nash2ID"   onclick = "retourner('Nash2ID', 'NashID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_10.png')" class = "Nash2" src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_10.png" />
+    <img id = "ZangiefID"   class = "Zangief" onclick = "retourner('ZangiefID', 'Zangief2ID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_15.png')" src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_15.png" />
+    <img id = "Zangief2ID"  class ="Zangief2" onclick = "retourner('Zangief2ID', 'ZangiefID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_15.png')" src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_15.png" />
+    <img id = "BirdieID"    class = "Birdie" onclick = "retourner('BirdieID', 'Birdie2ID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_01.png')"src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_01.png" />
+    <img id = "Birdie2ID"    class = "Birdie2" onclick = "retourner('Birdie2ID', 'BirdieID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_01.png')"src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_01.png" />
+    <img id = "DictatorID"    class = "Dictator" onclick= "retourner('DictatorID', 'Dictator2ID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_02.png')"src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_02.png" />
+    <img id = "Dictator2ID"   class= "Dictator2" onclick= "retourner('Dictator2ID', 'DictatorID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_02.png')" src = "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_02.png" />
+    <img id = "ChunliID"      class = "Chunli"  onclick= "retourner('ChunliID', 'Chunli2ID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_03.png')" src= "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_03.png" />
+    <img id = "Chunli2ID"    class = "Chunli2" onclick= "retourner('Chunli2ID', 'ChunliID','Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_03.png')"  src= "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/Street_Fighter_V_Card_03.png"/>
+
+    </div>
+    <script>
+    //========================================= Initialisation du jeu=================================
+    function attribAlea() { //on va creer un tableau qui va utiliser aléatoirement les classes du tableau tabClass et les ids de tabId afin de mélanger les cartes//
+    tabId = ["NashID", "KarinID","LauraID","NecalliID" ,"RmikaID","RashidID","RyuKenID","RyuKen2ID" , "Rashid2ID" , "Rmika2ID","Necalli2ID" ,"Laura2ID","Karin2ID", "Nash2ID" , "ZangiefID" , "Zangief2ID","BirdieID" ,"Birdie2ID","DictatorID"
+  ,"Dictator2ID","ChunliID" ,"Chunli2ID" ]
+     tabAttribution = [];
+     tabClass = ["Nash", "Karin", "Laura", "Necalli", "Rmika", "Rashid", "RyuKen", "RyuKen2", "Rashid2", "Rmika2", "Necalli2", "Laura2" , "Karin2", "Nash2", "Zangief", "Zangief2", "Birdie", "Birdie2","Dictator", "Dictator2" , "Chunli", "Chunli2"] ;
+
+      for (var i = 0 ; i < 22; i ++) {
+      var Aleatoire = Math.floor(Math.random()*tabClass.length);
+      tabAttribution.push(tabClass[Aleatoire]);
+      tabClass.splice(Aleatoire, 1);
+    }
+    for (var e = 0 ; e < 22 ; e ++) {
+      document.getElementById(tabId[e]).setAttribute("class",tabAttribution[e]);
+    }
+      var starto = document.getElementById("start");
+      var corps = document.getElementById("boxcards");
+     corps.removeChild(starto);
+     document.getElementById("quiFixe1").classList.add("quiFixe");
+     document.getElementById("container1").classList.add("container");
+     document.getElementById("timer1").classList.add("timer");
+    setTimeout(lancerJeu(), 1000); //fonction legerement décalée qui va donner a toutes les cartes la src "dos de cartes" qui correspond a leur valeur cachée. en fait le principe du script est d'échanger les sources des img constituant les cartes//
+
+  }
+
+  function lancerJeu() {
+    for (var a = 0 ; a < tabAttribution.length ; a ++) { //on place les cartes face cachée//
+    document.getElementById(tabId[a]).setAttribute("src","Street Fighter V - Steam Trading Cards Wiki - Wikia_files/dos_carte");
+    document.getElementById(tabId[a]).setAttribute("width", "10%");
+
+    setTimeout(gameover, 35000);//TOfix, on utilise un setTimeout pour regler la fin du jeu après l'animation sablier(Ryu qui court), il faudrait pouvoir placer un eventlistener sur cette animation mais c'est sans succès jusque la//
+  }
+}
+
+
+  //==================================================================================timers===============================================
+  var triche = 0; //la var triche servira pour ne pas retourner plus de 2 cartes à la fois, compteur servira afin de distinguer si l'on pioche la première ou la deuxième carte d'un couple et var finDeJeu bloquera le jeu une fois la fonction gamover finie//
+  var compteur = 0;
+  var finDeJeu = 0;
+  function retourner(ident,ident2, source) { // avec 3 paramètres on vérifie si la deuxième(carte1) carte a la même source que sa carte jumelle(carte2). CarteAvant sert a identifier la carte tirée juste avant afin d'appliquer un settimeout et les remettre face cachée en cas d'érreur.
+    console.log(triche);
+    if (( finDeJeu == 0)&&(triche == 0)) {
+  compteur ++ ;
+  carte1 =document.getElementById(ident);
+  carte2 =document.getElementById(ident2);
+  carte1.setAttribute("src", source);
+  adresseCarte = carte1.getAttribute("src");
+  adresseCarte2 = carte2.getAttribute("src");
+
+      if (compteur == 1) {
+     carteAvant = document.getElementById(ident);
+     x = setTimeout(function(){carteAvant.setAttribute("src", "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/dos_carte");compteur = 0;},4000);
+      triche = 0;
+      }
+      else {
+        if (adresseCarte != adresseCarte2) {
+        clearTimeout(x);
+        x = setTimeout(function(){carte1.setAttribute("src", "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/dos_carte");compteur = 0;triche = 0;},800);
+        z = setTimeout(function(){carteAvant.setAttribute("src", "Street Fighter V - Steam Trading Cards Wiki - Wikia_files/dos_carte");compteur = 0; triche = 0;},800);
+         triche = 1;
+      }
+        else if (adresseCarte == adresseCarte2) {
+        clearTimeout(x);
+        clearTimeout(z);
+      }
+    }
+      if (compteur == 2) {
+      compteur = 0;
+      }
+    }
+  else if (( finDeJeu == 1)||(triche == 1)){
+        console.log("K.O !!!");
+      }
+  }
+
+  function gameover() {
+    var corps = document.getElementById("boxcards");
+    var fin = document.createElement("img");
+    fin.setAttribute("src","sf4KO.png");
+    fin.classList.add("gameOver");
+    corps.appendChild(fin);
+     finDeJeu = 1;
+  }
+    </script>
+  </body>
+</html>

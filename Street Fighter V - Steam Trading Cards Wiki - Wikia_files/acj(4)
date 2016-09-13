@@ -1,0 +1,36 @@
+OX_7321567797({
+  "ads":{
+    "chain":1,
+    "medium":"w",
+    "record_tmpl":"http://ox-d.wikia.servedbyopenx.com/{medium}/1.0/{rtype}?ts={txn_state}",
+    "pixels":"http://us-u.openx.net/w/1.0/pd?plm=5&ph=50cd45fa-7093-4f15-95ec-1722f80fddf1",
+    "adunits" : [
+      {
+        "auid":"538229265",
+        "chain_timeout":"",
+        "chain_revenue":"50",
+        "chain":[
+          {
+            "is_fallback":0,
+            "framed":1,
+            "ad_id":"537155521",
+            "adv_acct_id":"537073241",
+            "is_ng":1,
+            "adv_id":"152d07b1-da41-4c40-ad18-fe74c269534a:537073241",
+            "brand_id":"8518",
+            "cpipc":50,
+            "auct_win_is_deal":0,
+            "pub_rev":"50",
+            "width":"300",
+            "height":"250",
+            "html":"<iframe width=\"300\" height=\"250\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"http://cdn.w55c.net/i/0RlagBGHL9_609751016.html?&rtbhost=rtb01-c.eu.dataxu.net&btid=Y2I5MzM5ZTAtOTdlNi00ODE3LWJiY2EtYzIyYTU0Y2I0MjczfE9GN0FrUmNiTGV8MTQ3MjIxNDc4NDQ2NXwxfDBGcEtEMFNubXR8MFJsYWdCR0hMOXxaZklla2R5UzFCbk5JSjV8NzM0OTV8fHx8MTcuMFB8VVNE&ei=OPENX&wp_exchange=AAABVsbW2txv5-uCn-QtVeEfFjZxTywe44rRvQ&js=0&ob=0&ccw=SUFCOSMwLjI3MTM2MDc4fElBQjktMTAjMC4yNzEzNjA3OHxJQUIxOSMwLjExNzI3NjcyfElBQjIwIzAuMDc0MTQ2MzQ&ci=0C0Lt4Z4Zf&fiu=MEZwS0QwU25tdA&sd=wikia.com&s=http%3A%2F%2Fsteamtradingcards.wikia.com%2Fwiki%2FStreet_Fighter_V&ts=1472214784468&ai=0De4aFBFpT&tpce=http%3A%2F%2Fox-d.wikia.servedbyopenx.com%2Fw%2F1.0%2Frc%3Fts%3D1fHJpZD0wMzVmZGY4Yy1lOWQ3LTQ0N2YtODYyZi1lNTRhMzgxODk3MGZ8cnQ9MTQ3MjIxNDc4NHxhdWlkPTUzODIyOTI2NXxhdW09RE1JRC5XRUJ8YXVwZj1kaXNwbGF5fHNpZD01MzcyMTAxNDV8cHViPTUzNzA4NjgwOXxwYz1VU0R8cmFpZD05NzM4ZGZhMi1iNjlhLTQyMGUtOWMzOS1hMjFhZmJhMzg2ZTl8Y2w9MXxhaWQ9NTM3MTU1NTIxfHQ9MTJ8YXM9MzAweDI1MHxsaWQ9NTM3MTIzOTQwfG9pZD01MzcwOTYwNzR8cD03MHxwcj01MHxhdGI9NzB8YWR2PTUzNzA3MzI0MXxhYz1VU0R8cG09UFJJQ0lORy5DUE18bT0xfGFpPTE1MmQwN2IxLWRhNDEtNGM0MC1hZDE4LWZlNzRjMjY5NTM0YXxtYz1VU0R8bXI9MjB8cGk9NTB8bXVpPWRlMWIwOTU1LTk5NmEtNGMwOC0yNjhhLTFkOTcyMDdkNjZlOHxtYT1jYjkzMzllMC05N2U2LTQ4MTctYmJjYS1jMjJhNTRjYjQyNzN8bXJ0PTE0NzIyMTQ3ODR8bXJjPVNSVF9XT058bXdhPTUzNzA3MzI0MXxjaz0xfG13Ymk9ODUxOHxtd2I9NzB8bWFwPTcwfGVsZz0xfG1vYz1VU0R8bW9yPTIwfG1wYz1VU0R8bXByPTUwfG1wZj01MHxtbWY9NTB8bXBuZj01MHxtbW5mPTUwfHBjdj0yMDE2MDcxNHxtbz1PWHxlYz0wUmxhZ0JHSEw5fG1wdT01MHxtY3A9NzB8YXF0PXJ0Ynxtd2M9NTM3MDk2MDc0fG13cD01MzcxMjM5NDB8bXdjcj01MzcxNTU1MjF8bXdpcz0xfG13cHQ9b3hfcHJvdG98Y2k9MXx1cj1Ia1hCS1J1UVFMfGJkcj0xfGxkPWdlcm1hbnkudHJhdmVs%26r%3D&c=FR&r=B9&m=0&pc=38090&rnd=5247402466068947&mi=d2Vi&epid=T1g1MzcyMTAxNDU&ct=b1cca87ae82e40c7b29b2c3e67e2cd5a&os=WG9v&dc=WGNu&dv=MUxPWHU0b3Y5Ug&dm=MU1wbnN0OEc1aA&dt=2dt0005&l=ZW58ZnIsZW58&mt=2cmt0001&v=0&euid=ZDJlMWJjMzAtOTk2Yi1jYWQxLTlhMjgtOTljODk3NDM2ZmFm&mt=2cmt0001&mi=d2Vi&aSH=a4137d3e32e09d28fbc9a8adb5e45f15ba676191&aSD=6709102324c2d411cbbd629e21a7612ce04a5f6c&refurl=aHR0cHM6Ly93d3cuZ29vZ2xlLmZyLw\"> </iframe>",
+            "target":"_blank",
+            "ts":"1fHJpZD0wMzVmZGY4Yy1lOWQ3LTQ0N2YtODYyZi1lNTRhMzgxODk3MGZ8cnQ9MTQ3MjIxNDc4NHxhdWlkPTUzODIyOTI2NXxhdW09RE1JRC5XRUJ8YXVwZj1kaXNwbGF5fHNpZD01MzcyMTAxNDV8cHViPTUzNzA4NjgwOXxwYz1VU0R8cmFpZD05NzM4ZGZhMi1iNjlhLTQyMGUtOWMzOS1hMjFhZmJhMzg2ZTl8Y2w9MXxhaWQ9NTM3MTU1NTIxfHQ9MTJ8YXM9MzAweDI1MHxsaWQ9NTM3MTIzOTQwfG9pZD01MzcwOTYwNzR8cD03MHxwcj01MHxhdGI9NzB8YWR2PTUzNzA3MzI0MXxhYz1VU0R8cG09UFJJQ0lORy5DUE18bT0xfGFpPTE1MmQwN2IxLWRhNDEtNGM0MC1hZDE4LWZlNzRjMjY5NTM0YXxtYz1VU0R8bXI9MjB8cGk9NTB8bXVpPWRlMWIwOTU1LTk5NmEtNGMwOC0yNjhhLTFkOTcyMDdkNjZlOHxtYT1jYjkzMzllMC05N2U2LTQ4MTctYmJjYS1jMjJhNTRjYjQyNzN8bXJ0PTE0NzIyMTQ3ODR8bXJjPVNSVF9XT058bXdhPTUzNzA3MzI0MXxjaz0xfG13Ymk9ODUxOHxtd2I9NzB8bWFwPTcwfGVsZz0xfG1vYz1VU0R8bW9yPTIwfG1wYz1VU0R8bXByPTUwfG1wZj01MHxtbWY9NTB8bXBuZj01MHxtbW5mPTUwfHBjdj0yMDE2MDcxNHxtbz1PWHxlYz0wUmxhZ0JHSEw5fG1wdT01MHxtY3A9NzB8YXF0PXJ0Ynxtd2M9NTM3MDk2MDc0fG13cD01MzcxMjM5NDB8bXdjcj01MzcxNTU1MjF8bXdpcz0xfG13cHQ9b3hfcHJvdG98Y2k9MXx1cj1Ia1hCS1J1UVFMfGJkcj0xfGxkPWdlcm1hbnkudHJhdmVs",
+            "type":"html",
+            "ad_url":"<iframe width=\"300\" height=\"250\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" frameborder=\"0\" src=\"http://cdn.w55c.net/i/0RlagBGHL9_609751016.html?&rtbhost=rtb01-c.eu.dataxu.net&btid=Y2I5MzM5ZTAtOTdlNi00ODE3LWJiY2EtYzIyYTU0Y2I0MjczfE9GN0FrUmNiTGV8MTQ3MjIxNDc4NDQ2NXwxfDBGcEtEMFNubXR8MFJsYWdCR0hMOXxaZklla2R5UzFCbk5JSjV8NzM0OTV8fHx8MTcuMFB8VVNE&ei=OPENX&wp_exchange=AAABVsbW2txv5-uCn-QtVeEfFjZxTywe44rRvQ&js=0&ob=0&ccw=SUFCOSMwLjI3MTM2MDc4fElBQjktMTAjMC4yNzEzNjA3OHxJQUIxOSMwLjExNzI3NjcyfElBQjIwIzAuMDc0MTQ2MzQ&ci=0C0Lt4Z4Zf&fiu=MEZwS0QwU25tdA&sd=wikia.com&s=http%3A%2F%2Fsteamtradingcards.wikia.com%2Fwiki%2FStreet_Fighter_V&ts=1472214784468&ai=0De4aFBFpT&tpce=http%3A%2F%2Fox-d.wikia.servedbyopenx.com%2Fw%2F1.0%2Frc%3Fts%3D1fHJpZD0wMzVmZGY4Yy1lOWQ3LTQ0N2YtODYyZi1lNTRhMzgxODk3MGZ8cnQ9MTQ3MjIxNDc4NHxhdWlkPTUzODIyOTI2NXxhdW09RE1JRC5XRUJ8YXVwZj1kaXNwbGF5fHNpZD01MzcyMTAxNDV8cHViPTUzNzA4NjgwOXxwYz1VU0R8cmFpZD05NzM4ZGZhMi1iNjlhLTQyMGUtOWMzOS1hMjFhZmJhMzg2ZTl8Y2w9MXxhaWQ9NTM3MTU1NTIxfHQ9MTJ8YXM9MzAweDI1MHxsaWQ9NTM3MTIzOTQwfG9pZD01MzcwOTYwNzR8cD03MHxwcj01MHxhdGI9NzB8YWR2PTUzNzA3MzI0MXxhYz1VU0R8cG09UFJJQ0lORy5DUE18bT0xfGFpPTE1MmQwN2IxLWRhNDEtNGM0MC1hZDE4LWZlNzRjMjY5NTM0YXxtYz1VU0R8bXI9MjB8cGk9NTB8bXVpPWRlMWIwOTU1LTk5NmEtNGMwOC0yNjhhLTFkOTcyMDdkNjZlOHxtYT1jYjkzMzllMC05N2U2LTQ4MTctYmJjYS1jMjJhNTRjYjQyNzN8bXJ0PTE0NzIyMTQ3ODR8bXJjPVNSVF9XT058bXdhPTUzNzA3MzI0MXxjaz0xfG13Ymk9ODUxOHxtd2I9NzB8bWFwPTcwfGVsZz0xfG1vYz1VU0R8bW9yPTIwfG1wYz1VU0R8bXByPTUwfG1wZj01MHxtbWY9NTB8bXBuZj01MHxtbW5mPTUwfHBjdj0yMDE2MDcxNHxtbz1PWHxlYz0wUmxhZ0JHSEw5fG1wdT01MHxtY3A9NzB8YXF0PXJ0Ynxtd2M9NTM3MDk2MDc0fG13cD01MzcxMjM5NDB8bXdjcj01MzcxNTU1MjF8bXdpcz0xfG13cHQ9b3hfcHJvdG98Y2k9MXx1cj1Ia1hCS1J1UVFMfGJkcj0xfGxkPWdlcm1hbnkudHJhdmVs%26r%3D&c=FR&r=B9&m=0&pc=38090&rnd=5247402466068947&mi=d2Vi&epid=T1g1MzcyMTAxNDU&ct=b1cca87ae82e40c7b29b2c3e67e2cd5a&os=WG9v&dc=WGNu&dv=MUxPWHU0b3Y5Ug&dm=MU1wbnN0OEc1aA&dt=2dt0005&l=ZW58ZnIsZW58&mt=2cmt0001&v=0&euid=ZDJlMWJjMzAtOTk2Yi1jYWQxLTlhMjgtOTljODk3NDM2ZmFm&mt=2cmt0001&mi=d2Vi&aSH=a4137d3e32e09d28fbc9a8adb5e45f15ba676191&aSD=6709102324c2d411cbbd629e21a7612ce04a5f6c&refurl=aHR0cHM6Ly93d3cuZ29vZ2xlLmZyLw\"> </iframe>"
+          }
+        ]
+      }
+    ]
+  }
+});

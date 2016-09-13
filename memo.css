@@ -1,0 +1,403 @@
+body{
+  background-image: url("Street Fighter V - Steam Trading Cards Wiki - Wikia_files/STREET-FIGHTER-V_20160215184649.jpg");
+  padding: 0;
+  border: 0;
+  background-size: 90%;
+}
+
+
+.start1 {
+  z-index: 3;
+  position: absolute;
+  left: 35%;
+  transition:  0.3s ease ;
+  top: 45%;
+  width: 300px;
+  height: 200px;
+
+}
+
+.gameOver {
+  z-index: 3;
+  position: absolute;
+  left: 35%;
+  transition:  0.3s ease ;
+  top: 45%;
+  width: 300px;
+  height: 200px;
+}
+
+ .start1:hover {
+   transform: scale(1.2);
+
+ }
+
+ .start1:active {
+   transform: scale(1.8);
+ }
+
+.Nash {
+  width:10%;
+  height:30%;
+  order: 1;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+
+}
+
+.Nash:hover {
+  transform: scale(1.1);
+}
+
+.Karin {
+  width:10%;
+  height:30%;
+  order: 2;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+
+.Karin:hover {
+  transform: scale(1.1);
+}
+
+.Necalli {
+  width:10%;
+  height:30%;
+  order: 3;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+
+.Necalli:hover{
+  transform: scale(1.1);
+}
+.Rmika {
+  width:10%;
+  height:30%;
+  order: 4;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Rmika:hover {
+  transform: scale(1.1);
+}
+
+.Laura {
+  width:10%;
+  height:30%;
+  order: 5;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Laura:hover {
+  transform: scale(1.1);
+}
+.Rashid {
+  width:10%;
+  height:30%;
+  order: 6;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Rashid:hover {
+  transform: scale(1.1);
+}
+
+.RyuKen {
+  width:10%;
+  height:30%;
+  order: 7;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.RyuKen:hover {
+  transform: scale(1.1);
+}
+.RyuKen2 {
+  width:10%;
+  height:30%;
+  order: 8;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.RyuKen2:hover {
+  transform: scale(1.1);
+}
+
+.Nash2 {
+  width:10%;
+  height:30%;
+  order: 9;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Nash2:hover {
+  transform: scale(1.1);
+}
+
+.Karin2 {
+  width:10%;
+  height:30%;
+  order: 10;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Karin2:hover {
+  transform: scale(1.1);
+}
+
+.Necalli2 {
+  width:10%;
+  height:30%;
+  order: 11;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Necalli2:hover {
+  transform: scale(1.1);
+}
+.Rmika2 {
+  width:10%;
+  height:30%;
+  order: 12;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Rmika2:hover {
+  transform: scale(1.1);
+}
+
+.Laura2 {
+  width:10%;
+  height:30%;
+  order: 13;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Laura2:hover {
+  transform: scale(1.1);
+}
+.Rashid2 {
+  width:10%;
+  height:30%;
+  order: 14;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Rashid2:hover {
+  transform: scale(1.1);
+}
+.Zangief {
+  width:10%;
+  height:30%;
+  order: 15;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Zangief:hover {
+  transform: scale(1.1);
+}
+.Zangief2 {
+  width:10%;
+  height:30%;
+  order: 16;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Zangief2:hover {
+  transform: scale(1.1);
+}
+
+.Birdie {
+  width:10%;
+  height:30%;
+  order: 17;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Birdie:hover {
+  transform: scale(1.1);
+}
+
+.Dictator {
+  width:10%;
+  height:30%;
+  order: 18;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Dictator:hover {
+  transform: scale(1.1);
+}
+.Chunli {
+  width:10%;
+  height:30%;
+  order: 19;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Chunli:hover {
+  transform: scale(1.1);
+}
+.Birdie2 {
+  width:10%;
+  height:30%;
+  order: 20;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Birdie2:hover {
+  transform: scale(1.1);
+}
+
+.Dictator2 {
+  width:10%;
+  height:30%;
+  order: 21;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Dictator2:hover {
+  transform: scale(1.1);
+}
+.Chunli2 {
+  width:10%;
+  height:30%;
+  order: 22;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+}
+.Chunli2:hover {
+  transform: scale(1.1);
+}
+
+.dos_carte {
+  width:11%;
+  height:30%;
+  order: 23;
+  border: 1px solid black;x;
+  border-radius: 3px;
+  z-index: 0;
+  transition: 0.2s ease;
+
+}
+
+
+#boxcards {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+  height: 600px;
+  top:0;
+  left:0;
+  align-content: space-around;
+
+}
+
+.quiFixe {
+  position:fixed;
+  z-index: 2;
+  top: 0px;
+  left: 0;
+  height: 120px;
+  width: 100%;
+}
+.timer{
+  z-index: 2;
+  position:absolute;
+  display: inline-block;
+  top: 0;
+  left: 0;
+  height:120px;
+  width: 60px;
+  animation: RyuRunning 0.5s steps(5) infinite;
+  background-image:url(/home/romain/Bureau/bkYVEe5.png);
+  visibility: hidden;
+
+
+
+}
+
+
+
+#container1 {
+  z-index: 2;
+  position: relative;
+  display: block-inline;
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 120px;
+  -webkit-animation: RyuTimer 40s;
+}
+
+@keyframes RyuRunning {
+  0% {
+  visibility: visible;
+  background-position: -196px 0px;
+
+  }
+
+  100% {
+  background-position: -446px 0px;
+
+  }
+}
+
+@keyframes RyuTimer {
+  0% {
+    left: 0;
+  }
+  100% {
+    left: 100%;
+  }
+
+}
