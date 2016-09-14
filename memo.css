@@ -359,7 +359,7 @@ body{
   height:120px;
   width: 60px;
   animation: RyuRunning 0.5s steps(5) infinite;
-  background-image:url("http://i.imgur.com/bkYVEe5.png");
+  background-image:url(http://i.imgur.com/bkYVEe5.png);
   visibility: hidden;
 
 
