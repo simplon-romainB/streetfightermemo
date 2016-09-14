@@ -368,7 +368,7 @@ body{
 
 
 
-#container1 {
+.container {
   z-index: 2;
   position: relative;
   display: block-inline;
