@@ -359,6 +359,9 @@ body{
   height:120px;
   width: 60px;
   animation: RyuRunning 0.5s steps(5) infinite;
+  -webkit-animation: RyuRunning 0.5s steps(5) infinite;
+  -o-animation: RyuRunning 0.5s steps(5) infinite;
+  -moz-animation: RyuRunning 0.5s steps(5) infinite;
   background-image:url(/home/romain/Bureau/bkYVEe5.png);
   visibility: hidden;
 
@@ -377,6 +380,9 @@ body{
   width: 60px;
   height: 120px;
   -webkit-animation: RyuTimer 40s;
+   -o-animation: RyuTimer 40s;
+   -moz-animation: RyuTimer 40s;
+   animation: RyuTimer 40s;
 }
 
 @keyframes RyuRunning {
